@@ -1,0 +1,20 @@
+generated: '2026-10-22'
+method: none
+source:
+- https://zapier.com/apps/marathon-health-com/integrations
+- https://zapier.com/apps/marathon-health/integrations
+- https://n8n.io/integrations/marathon-health-com/
+- https://n8n.io/integrations/marathon-health/
+- https://composio.dev/toolkits/marathon-health-com
+- https://monid.ai/tools/marathon-health-com
+checked:
+- https://composio.dev/toolkits/marathon-health-com
+- https://monid.ai/tools/marathon-health-com
+- https://n8n.io/integrations/marathon-health-com/
+- https://n8n.io/integrations/marathon-health/
+- https://zapier.com/apps/marathon-health-com/integrations
+- https://zapier.com/apps/marathon-health/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
